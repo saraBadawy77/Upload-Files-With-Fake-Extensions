@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upload Files With Fake Extensions", "Upload Files With Fake Extensions\Upload Files With Fake Extensions.csproj", "{D0E26F49-2648-4D6F-BBF2-F2BA08CDC7E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E26F49-2648-4D6F-BBF2-F2BA08CDC7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E26F49-2648-4D6F-BBF2-F2BA08CDC7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E26F49-2648-4D6F-BBF2-F2BA08CDC7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E26F49-2648-4D6F-BBF2-F2BA08CDC7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB74D71-09F8-4FC9-8C16-1297C02AAAF1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@Upload_Files_With_Fake_Extensions_HostAddress = http://localhost:5243
+
+GET {{Upload_Files_With_Fake_Extensions_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
